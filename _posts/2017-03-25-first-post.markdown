@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  "Finally I start a blog"
-date:   2017-03-25 14:20:32 +0000
+date:   2017-03-29 21:13:32 +0000
 categories: update
 ---
 
-I am a professional procrastinator.
+This has been a long time coming; finally it is here.
 
-I made a great plan. Over 6 years ago I planned to catalog everything I learn as I learn it. The aim was to use it as a way to review my progress year on year.
+I am software developer and a lover of most things tech.
+I have had many "lives" in this career of mine, all within technology, but I have lived the longest as a dev.
 
-Oh I had great plans, I made lists of all the things I would learn, created a learning schedule and 6 years later, nothing.
+Currently, I am advancing my skills in Software Security, so forgive me if more of my posts are on this subject.
+
+Loads of fun times ahead (at least for me :D).
