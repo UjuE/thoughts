@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/grapevine-jekyll-theme/grapevine-jekyll-theme.git
-  revision: c557789a4540be60080f9b483dc185f90806a739
+  revision: c760c01f30f5bc3db7307b612cddf7c8bbb91d55
   branch: master
   specs:
     grapevine-jekyll-theme (0.1.0)
