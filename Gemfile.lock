@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/grapevine-jekyll-theme/grapevine-jekyll-theme.git
+  revision: c557789a4540be60080f9b483dc185f90806a739
+  branch: master
+  specs:
+    grapevine-jekyll-theme (0.1.0)
+      jekyll (~> 3.4)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -29,8 +37,6 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    minima (2.1.0)
-      jekyll (~> 3.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -45,9 +51,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  grapevine-jekyll-theme!
   jekyll (= 3.4.3)
   jekyll-feed (~> 0.6)
-  minima (~> 2.0)
   tzinfo-data
 
 RUBY VERSION
